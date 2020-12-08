@@ -47,7 +47,7 @@ setuptools.setup(
         "six == 1.11.0",
         "scikit-learn == 0.20.4",
         "sentencepiece == 0.1.83"],
-    python_requires='>=3.7',
+    python_requires='>=3.6.9',
     classifiers = [
             'License :: OSI Approved :: Apache Software License',
             'Programming Language :: Python :: 3',
